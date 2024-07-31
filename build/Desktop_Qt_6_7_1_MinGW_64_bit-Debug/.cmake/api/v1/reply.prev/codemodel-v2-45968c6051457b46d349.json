@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6bd59765234cd57100ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "calory_calc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calory_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calory_calc-Debug-1b560dc5bd9ca506f1be.json",
+					"name" : "calory_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calory_calc_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calory_calc_autogen-Debug-d69db7830a539c4c6b23.json",
+					"name" : "calory_calc_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calory_calc_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calory_calc_autogen_timestamp_deps-Debug-ae1987f17ff30e6bf68d.json",
+					"name" : "calory_calc_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QT/Examples/calory_calc/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "E:/QT/Examples/calory_calc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
